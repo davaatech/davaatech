@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Davaa Baatar</h1>
 <h3 align="center">Software/Web Engineer</h3>
 
-- 🔭 I’m currently working on [usukh.mn](usukh.mn)
-- Find me on [davaa.usukh.mn](davaa.usukh.mn)
+- 🔭 I’m currently working on ([usukh.mn](https://usukh.mn/))
+- Find me on [[davaa.usukh.mn](davaa.usukh.mn)](https://davaa.usukh.mn/)
 
 - 🌱 I’m currently learning **Laravel PHP**
 
