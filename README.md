@@ -4,13 +4,13 @@
 - 🔭 I’m currently working on ([usukh.mn](https://usukh.mn/))
 - Find me on [[davaa.usukh.mn](davaa.usukh.mn)](https://davaa.usukh.mn/)
 
-- 🌱 I’m currently learning **Laravel PHP**
+- 🌱 I’m currently learning **Embedded**
 
-- 💬 Ask me about **vue, expressjs**
+- 💬 Ask me about **vue, c/c++**
 
 - 📫 How to reach me **davaa.tech@gmail.com**
 
-- ⚡ Fun fact **I am a decent basketball player**
+- ⚡ Fun fact **I like to play Basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
